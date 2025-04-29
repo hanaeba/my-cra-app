@@ -20,7 +20,7 @@
      "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/hanaeba/my-cra-app.git",
+ "homepage": "https://hanaebaraka594.github.io/my-cra-app",
   "eslintConfig": {
     "extends": [
       "react-app",
