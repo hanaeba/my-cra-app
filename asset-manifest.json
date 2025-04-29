@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-cra-app/static/css/main.4bfede81.css",
+    "main.js": "/my-cra-app/static/js/main.5037cc11.js",
+    "index.html": "/my-cra-app/index.html",
+    "main.4bfede81.css.map": "/my-cra-app/static/css/main.4bfede81.css.map",
+    "main.5037cc11.js.map": "/my-cra-app/static/js/main.5037cc11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfede81.css",
+    "static/js/main.5037cc11.js"
+  ]
+}
